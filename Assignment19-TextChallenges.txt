@@ -1,0 +1,65 @@
+Assignment Name: Text Challenges
+
+Description
+Collect 20 messy sentences and identify slang, emojis, typos, and explain preprocessing needed.
+
+20 Messy Sentences
+Hiiiii brooo 😂😂
+I luv this movie!!! ❤️
+OMG!!! this is gr8
+Plz send d file asap
+Gud mrng ☀️
+Wat r u doing???
+This is sooo coool 😎
+Thnx a lottt!!!
+I cant w8 😜
+LOL 😂😂😂
+dis is awsm
+Ur work iz gud
+Happy bdayyy 🎂
+goood jobbbb
+u r amazinggg
+omg wt a match
+hv a nice day 😊
+c u soon
+its tooo muchhh
+besttt everrr
+Identification of Issues
+Slang Words
+luv → love
+gr8 → great
+plz → please
+gud → good
+u → you
+r → are
+thnx → thanks
+omg → oh my god
+
+Emojis
+😂 ❤️ ☀️ 😎 😜 🎂 😊
+
+These do not add useful meaning for ML models and should be removed.
+
+Typos / Repeated Letters
+hiiiii → hi
+brooo → bro
+sooo → so
+coool → cool
+lottt → lot
+besttt → best
+
+Preprocessing Needed
+To clean the text data, the following steps are required:
+
+Convert to lowercase
+Example: "OMG" → "omg"
+Remove emojis
+Emojis should be removed as they are not useful for most text models.
+Remove punctuation
+Example: "movie!!!" → "movie"
+Correct spelling / reduce repeated letters
+Example: "sooo" → "so"
+Expand slang words
+Example: "u" → "you", "plz" → "please"
+Remove stopwords (optional)
+Example: "is", "the", "a" can be removed

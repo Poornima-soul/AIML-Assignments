@@ -1,0 +1,24 @@
+Assignment Name: Mini Project Proposal
+Title: Student Performance Prediction
+
+Problem Statement
+The objective of this project is to predict student performance based on their study behavior and academic activities. Many students struggle to understand how their study habits affect their final results. This project aims to build a machine learning model that can analyze factors such as study hours, attendance, and assignment performance to predict student marks or grades. This will help in identifying students who may need improvement and guidance.
+
+Dataset
+
+The dataset consists of student-related information such as:
+
+Study hours per day
+Attendance percentage
+Assignment scores
+Previous exam marks
+This data can be collected manually or from academic records. The dataset will be used to train the machine learning model.
+
+Algorithm
+The project uses Linear Regression, a supervised machine learning algorithm. It is used to find the relationship between input variables (study hours, attendance, etc.) and the output (marks). Linear Regression helps in predicting continuous values such as student scores.
+
+Expected Output
+The model will predict:
+Final marks of the student
+Grade (e.g., A, B, C) based on predicted marks
+The output will help students and teachers understand performance levels and take necessary actions for improvement.
