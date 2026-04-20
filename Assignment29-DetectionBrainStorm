@@ -1,0 +1,31 @@
+5 Uses of Detection
+
+1 Face Unlock (Mobile Security)
+    Unlock phone using face recognition
+2 CCTV Surveillance
+    Detect suspicious activity in public places
+3 Self-Driving Cars
+    Detect pedestrians, vehicles, traffic signals
+4 Attendance System
+    Automatically mark attendance using face
+5 Retail/Shopping Analysis
+    Track customer movement and behavior
+
+Designed Solution: Smart Attendance System
+Problem:
+Manual attendance takes time and may have errors.
+
+Solution:
+Use face detection system to automate attendance.
+
+Working:
+Camera captures student faces
+System detects and recognizes faces
+Attendance is marked automatically
+Data is stored in database
+
+Advantages
+* Saves time
+* Accurate
+* No manual work
+* Prevents proxy attendance

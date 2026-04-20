@@ -1,0 +1,36 @@
+1. Resume Prompt
+
+Weak Prompt:
+Write a resume
+
+Strong Prompt:
+Write a professional resume for a 3rd-year Computer Science student with skills in Python, Machine Learning, and Web Development. Include projects, internships, and contact details in a clean format.
+
+2. Business Idea Prompt
+
+Weak Prompt:
+Give me a business idea
+
+Strong Prompt:
+Suggest a low-cost startup idea for college students in India that can be started with less than ₹10,000 and has good profit potential.
+
+3. Study Plan Prompt
+
+Weak Prompt:
+Give me a study plan
+
+Strong Prompt:
+Create a 30-day study plan for learning Python from basics to intermediate level, including daily topics, practice tasks, and revision.
+
+Comparison: Weak vs Strong Prompts
+
+Aspect	              Weak Prompt	                Strong Prompt
+Clarity                  Vague	                    Clear and specific
+Details	               No details	                Includes skills, budget, time
+Output Quality	         General	                Structured and useful
+Accuracy	               Low	                       High
+
+
+Conclusion
+Strong prompts provide clear instructions, context, and details, which help AI generate more accurate and useful responses.
+Weak prompts are vague and result in less effective outputs. Prompt engineering is important for getting the best results from AI systems.
